@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.buttons {
+  padding: 2em;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer {
+  color: #888;
+}
